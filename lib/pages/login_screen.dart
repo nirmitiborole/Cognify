@@ -320,7 +320,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             );
                           },
                           child: Text(
-                            'Sign Up',
+                            'Sign up',
                             style: TextStyle(
                               color: Color(0xFF6A1B9A),
                               fontWeight: FontWeight.w600,

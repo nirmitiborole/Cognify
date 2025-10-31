@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388188468004",
+    "project_id": "cognify-app-1e427",
+    "storage_bucket": "cognify-app-1e427.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388188468004:android:6e1364c97ec1e3124079b1",
+        "android_client_info": {
+          "package_name": "com.example.cognify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosn4g3IzazZNr_iRvqW3NnDJz2Rp6aIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
